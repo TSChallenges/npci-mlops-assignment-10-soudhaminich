@@ -32,7 +32,7 @@ The dataset you'll be working with is a customer dataset from a **Credit Card co
  
 ## Assignment Tasks:
 
-**Note: Please refer to the lab guide material on Kubeflow Pipelines, for all the commands needed to complete the following tasks.**
+**Note: Please refer to the [lab guide](https://drive.google.com/file/d/1sW8hYR-WllMvrY37ykn1OPaYhmxptdod/view?usp=sharing) material on Kubeflow Pipelines, for all the commands needed to complete the following tasks.**
 
 **1. Understand the given files**
 
@@ -43,7 +43,7 @@ The dataset you'll be working with is a customer dataset from a **Credit Card co
 
 **2. Create a Codespace**
 * Create a GitHub Codespace using the repository with default selection for Branch and Region, for Machine type select **4-core**. You can also change the Machine type to 4-core even after starting the Codespace.
-
+* (this repository is your own copy of the main repository, us this for creating a new codespace.No need to create a new repo)
 **3. Setting up Kubernetes cluster** [2 Marks]
 * Set up a single-node Minikube on your Codespace.
 * Switch to root and start Minikube.
