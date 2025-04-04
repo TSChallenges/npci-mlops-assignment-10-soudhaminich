@@ -43,7 +43,8 @@ The dataset you'll be working with is a customer dataset from a **Credit Card co
 
 **2. Create a Codespace**
 * Create a GitHub Codespace using the repository with default selection for Branch and Region, for Machine type select **4-core**. You can also change the Machine type to 4-core even after starting the Codespace.
-* (this repository is your own copy of the main repository, us this for creating a new codespace.No need to create a new repo)
+* (This repository is your own copy of the main repository, use this for creating a new codespace. No need to create a new repo).
+
 **3. Setting up Kubernetes cluster** [2 Marks]
 * Set up a single-node Minikube on your Codespace.
 * Switch to root and start Minikube.
